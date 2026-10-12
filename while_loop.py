@@ -7,7 +7,7 @@
 
 
 
-# Q3 - Accept a number and print its reverse
+# Q2 - Accept a number and print its reverse
 
 # digit = int(input("Enter a number: "))
 # reverse = 0
@@ -18,7 +18,7 @@
 #     digit //= 10
 
 
-# Accept a number and check if it is a pallindromic number (If 
+# Q3 - Accept a number and check if it is a pallindromic number (If 
 # number and its reverse are equal
 
 # digit = int(input("Enter a number:"))
@@ -34,7 +34,7 @@
 #     print("Pallindromic number")
 
 
-# Create a random number guessing game with python
+# Q4 - Create a random number guessing game with python
 # import random
 # random = random.randint(1,100)
 # guess = None
