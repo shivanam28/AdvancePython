@@ -1,3 +1,13 @@
+# Before starting we need to understand some of the 
+# terminology.- Mutability refers to whether an object's value 
+# can be changed after creation. And List allows this- we know data structures are used to store 
+# multiple values so duplicates means same value occuring 
+# multiple time. List allows this- List maintains ordered data structure maintains 
+# the sequence of elements as they were inserted. This 
+# means you can access elements using their position 
+# (index)- List have heterogenous nature that means 
+# we can have multiple data types inside the list
+
 # Q1 - Print positive and negative elements of an List
 
 # values = list(map(int, input("Enter the list elements separated by space: ").split()))
