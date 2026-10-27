@@ -5,6 +5,12 @@
 
 This repository is my **Advanced Python learning journey** — where I solve problems, experiment with concepts, break things, fix them, and slowly become a better Python developer.
 
+## 📖 Notes & Documentation
+
+You can view the detailed Python study notes and summaries on Notion:
+
+[![Notion](https://img.shields.io/badge/Notion-Python%20Notes-black?logo=notion&logoColor=white)](https://app.notion.com/p/Python-4050bb75d2b58073a966c6be653f63ae?source=copy_link)
+
 ## 🎯 Why I'm Doing This
 
 I'm not just collecting Python tutorials or copying solutions.
