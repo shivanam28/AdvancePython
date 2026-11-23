@@ -1,3 +1,5 @@
+# Check if a given year is a leap year.
+
 # It is divisible by 4, AND NOT divisible by 100.
 # OR it is divisible by 400.
 

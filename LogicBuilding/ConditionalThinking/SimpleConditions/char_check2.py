@@ -1,3 +1,5 @@
+# Take a character and check whether it’s uppercase, lowercase, a digit, or a special character.
+
 char = input("Enter a character: ")
 
 if char.isalpha():

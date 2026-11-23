@@ -1,3 +1,5 @@
+# Check if a number is divisible by 5.
+
 num = int(input("Enter an integer: "))
 
 if num % 5 == 0:
